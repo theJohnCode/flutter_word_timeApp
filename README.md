@@ -3,11 +3,9 @@
 A simple flutter app that shows different time in different part of the world using the [World Time API](https://worldtimeapi.org/).
 
 
-<p>
-  <img src="/assets/img/choose.png" width="100" />
-  <img src="/assets/img/day.png" width="100" /> 
-  <img src="/assets/img/night.png" width="100" />
-</p>
+
+:-----------------:|:----------------:|:-------------------:
+<img src="/assets/img/choose.png" width="100" />|<img src="/assets/img/day.png" width="100" />|<img src="/assets/img/night.png" width="100" />
 
 
 ## Getting Started
