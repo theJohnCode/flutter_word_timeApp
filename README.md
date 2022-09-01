@@ -9,17 +9,28 @@ Choose Location            |  Night Location
 ![](/assets/img/choose.png)  |  ![](/assets//img/night.png)
 
 
+**Step 1:**
 
+Download or clone this repo by using the link below:
 
-## Getting Started
+```
+https://github.com/git@github.com:theJohnCode/flutter_word_timeApp.git
+```
 
-This project is a starting point for a Flutter application.
+**Step 2:**
 
-A few resources to get you started if this is your first Flutter project:
+Go to project root and execute the following command in console to get the required dependencies: 
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+```
+flutter pub get 
+```
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+**Step 3:**
+Run your App
+
+```
+flutter run
+```
+
+## Note
+Make sure you have flutter fully installed on your machine
