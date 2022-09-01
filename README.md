@@ -4,7 +4,7 @@ A simple flutter app that shows different time in different part of the world us
 
 
 
-:-----------------:|:----------------:|:-------------------:
+:-------------------------:|:-------------------------:|:-------------------------:
 ![](/assets/img/choose.png)|![](/assets/img/day.png)|![](/assets/img/night.png)
 
 
